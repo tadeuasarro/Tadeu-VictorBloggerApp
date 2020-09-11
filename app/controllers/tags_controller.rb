@@ -15,5 +15,4 @@ class TagsController < ApplicationController
 
     redirect_to @tag
   end
-
 end
