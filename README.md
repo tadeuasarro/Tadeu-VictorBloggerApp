@@ -1,24 +1,35 @@
-# README
+## We created a simple blog system and learned the basics of Ruby on Rails including:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Models, Views, and Controllers (MVC)
+- Data Structures & Relationships
+- Routing
+- Migrations
+- Views with forms, partials, and helpers
+- RESTful design
+- Adding gems for extra features
 
-Things you may want to cover:
+## Authors
 
-* Ruby version
+👤 **Tadeu Sarro**
 
-* System dependencies
+[Website](https://tadeuasarro.web.app/)
 
-* Configuration
+👤 **Victor Manuel Gonzalez Buitrago**
 
-* Database creation
+- Github: [@Shaqri](https://github.com/Shaqri)
+- Twitter: [@victorgonbu](https://twitter.com/victorgonbu)
+- Linkedin: [linkedin](https://www.linkedin.com/in/victor-manuel-gonzalez-buitrago-8704731a5/)
 
-* Database initialization
+## 🤝 Contributing
 
-* How to run the test suite
+Contributions, issues and feature requests are welcome!
 
-* Services (job queues, cache servers, search engines, etc.)
+Feel free to check the [issues page](issues/).
 
-* Deployment instructions
+## Show your support
 
-* ...
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
